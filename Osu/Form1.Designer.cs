@@ -51,7 +51,7 @@ namespace Osu
             // 
             this.scoreLabel.AutoSize = true;
             this.scoreLabel.Font = new System.Drawing.Font("Comic Sans MS", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.scoreLabel.Location = new System.Drawing.Point(711, 19);
+            this.scoreLabel.Location = new System.Drawing.Point(913, 9);
             this.scoreLabel.Name = "scoreLabel";
             this.scoreLabel.Size = new System.Drawing.Size(30, 35);
             this.scoreLabel.TabIndex = 0;
@@ -63,7 +63,7 @@ namespace Osu
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(984, 563);
             this.Controls.Add(this.scoreLabel);
             this.Name = "Form1";
             this.Text = "Form1";
